@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<head>
 <<<<<<< HEAD
-	<title>A sample website</title>
+<!-- sample comment
+additinal comments
+ -->
 =======
-	<title>An example website that is great</title>
->>>>>>> realwork
+<!-- sample additional comment -->
+>>>>>>> adding some conficts to sample
+<head>
+	<title>A sample website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -22,11 +25,7 @@
 		</p>
 	</main>
 	<footer class="container">
-<<<<<<< HEAD
-		<p>&copy; Company 2019-20</p>
-=======
-		<p>&copy; My Company 2019</p>
->>>>>>> realwork
+		<p>&copy; My Company 2019-20</p>
 	</footer>
 </body>
 </html>
