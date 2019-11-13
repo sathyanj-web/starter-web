@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+<<<<<<< HEAD
+	<title>A sample website</title>
+=======
+	<title>An example website that is great</title>
+>>>>>>> realwork
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content
+		</p>
+	</main>
+	<footer class="container">
+<<<<<<< HEAD
+		<p>&copy; Company 2019-20</p>
+=======
+		<p>&copy; My Company 2019</p>
+>>>>>>> realwork
+	</footer>
+</body>
+</html>
