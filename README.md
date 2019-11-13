@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work. Please share feedback
 ## Purpose
 
 Sample website with plenty of files for demos. Added copyright notice. 
+Added acknowledgments
 
 ## Deployment
 
