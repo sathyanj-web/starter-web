@@ -10,4 +10,5 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Following are deployment steps
+1. BACKUP FILES
 ## How to contribute
