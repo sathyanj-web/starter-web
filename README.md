@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Please share feedback
+This repository is for showing how Git and GitHub work. Please share feedback soon.
 
 ## Introduction
 ## Purpose
